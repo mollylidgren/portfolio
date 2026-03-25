@@ -1,0 +1,60 @@
+/*.scroll-container {
+  scroll-behavior: smooth;
+}
+
+/* scroll-timeline effekt 
+.scroll-stage {
+  view-timeline-name: --scroll;
+  view-timeline-axis: block;
+}
+
+.layer {
+  opacity: 0;
+  scale: 0.85;
+  animation: fadeIn linear both;
+  animation-timeline: --scroll;
+  animation-range: entry 20% cover 50%;
+}
+
+.scaler img {
+  scale: 1.3;
+  opacity: 0.6;
+  animation: zoomIn linear both;
+  animation-timeline: --scroll;
+  animation-range: entry 30% exit 80%;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    scale: 1;
+  }
+}
+
+@keyframes zoomIn {
+  to {
+    opacity: 1;
+    scale: 1;
+  }
+}
+
+.scaler img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  object-fit: cover;
+  border-radius: 1rem;
+  z-index: 10;
+}
+
+.scaler img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+    border-radius: 1rem;
+    z-index: 10;
+  }
+  */

@@ -1,0 +1,19 @@
+/* Import SN Pro font from Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=SN+Pro:ital,wght@0,200..900;1,200..900&display=swap");
+
+/* Import Tailwind base styles */
+@import "tailwindcss";
+
+/* Global font settings */
+html,
+body {
+  font-family: "SN Pro", sans-serif;
+}
+
+/* Root container styling */
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  text-align: left;
+}
